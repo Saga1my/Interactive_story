@@ -1,0 +1,15 @@
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\bin\Debug\net6.0\Interactive_story.exe
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\bin\Debug\net6.0\Interactive_story.deps.json
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\bin\Debug\net6.0\Interactive_story.runtimeconfig.json
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\bin\Debug\net6.0\Interactive_story.dll
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\bin\Debug\net6.0\Interactive_story.pdb
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.csproj.AssemblyReference.cache
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.AssemblyInfoInputs.cache
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.AssemblyInfo.cs
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.csproj.CoreCompileInputs.cache
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.dll
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\refint\Interactive_story.dll
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.pdb
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\Interactive_story.genruntimeconfig.cache
+C:\Users\saga.palm1\Documents\Programmering\Interactive_story\Interactive_story\obj\Debug\net6.0\ref\Interactive_story.dll
